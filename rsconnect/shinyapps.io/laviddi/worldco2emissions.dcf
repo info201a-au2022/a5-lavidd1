@@ -1,0 +1,13 @@
+name: worldco2emissions
+title: worldco2emissions
+username:
+account: laviddi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7861623
+bundleId: 6618658
+url: https://laviddi.shinyapps.io/worldco2emissions/
+when: 1670643794.78984
+lastSyncTime: 1670643794.78985
+asMultiple: FALSE
+asStatic: FALSE
