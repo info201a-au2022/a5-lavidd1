@@ -7,6 +7,7 @@ library(plotly)
 home_page <- tabPanel(
   title = "Introduction",
   titlePanel("World Carbon Emissions"),
+  p("by: David Li"),
   fluidPage(
     img("", src="https://climatekids.nasa.gov/resources/icons/greenhouse-effect.png"),
     p(uiOutput("intro"))

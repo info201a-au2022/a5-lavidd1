@@ -5,9 +5,9 @@ account: laviddi
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7861623
-bundleId: 6618658
+bundleId: 6618674
 url: https://laviddi.shinyapps.io/worldco2emissions/
-when: 1670643794.78984
-lastSyncTime: 1670643794.78985
+when: 1670644397.4792
+lastSyncTime: 1670644397.47924
 asMultiple: FALSE
 asStatic: FALSE
